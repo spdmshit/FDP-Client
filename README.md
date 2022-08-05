@@ -7,3 +7,4 @@ join the discord, i guess https://discord.gg/ybCnUygZWp
 
 ### Features
 Blatant Window > `BetterKillaura` (Multiaura Recreation)
+Blatant Window > `SilentBow` (Projectileexploit Recreation)
