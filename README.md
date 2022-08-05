@@ -6,4 +6,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/vodxn/sape/main/Initi
 join the discord, i guess https://discord.gg/ybCnUygZWp
 
 ### Features
-Blatant Window > `SilentBow` (Projectileexploit Recreation)
+Blatant Window > `SilentBow` (ProjectileExploit Recreation)
